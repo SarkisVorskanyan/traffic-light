@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	padding: 0;
+	min-height: 900px;
+	background-image: linear-gradient(#8CFFFB, #E6FFF6, #505050); 
+
+}
+
+.traffic{
+	max-width: 150px;
+	min-height: 350px;
+	border-radius: 20%;
+	background-image: linear-gradient(#212121, #414141);
+	margin: 50px auto auto auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.traffic div{
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	background-color: white;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
